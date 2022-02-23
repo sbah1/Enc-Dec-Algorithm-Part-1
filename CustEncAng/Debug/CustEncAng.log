@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\thesw\source\repos\custencang\custencang\source.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\thesw\source\repos\custencang\custencang\source.cpp(144): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\thesw\source\repos\custencang\custencang\source.cpp(139): warning C4715: 'decrypt': not all control paths return a value
+  CustEncAng.vcxproj -> C:\Users\thesw\source\repos\CustEncAng\Debug\CustEncAng.exe
